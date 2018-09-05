@@ -1,5 +1,5 @@
 /*
-Name: Donovan Troshynski
+Name:
 Assignment: 2
 Due Date: 16 February 2016
 */
